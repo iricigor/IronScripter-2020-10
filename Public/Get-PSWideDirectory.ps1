@@ -1,4 +1,4 @@
-function Get-DOSWideDirectory {
+function Get-PSWideDirectory {
 
     [CmdletBinding()]
     param (
